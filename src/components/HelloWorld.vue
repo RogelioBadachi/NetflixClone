@@ -15,6 +15,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>Disfruta donde quieras. Cancela cuando quieras.</h3>
+    <input type="email" name="email" id="id_email">
   </div>
 </template>
 
